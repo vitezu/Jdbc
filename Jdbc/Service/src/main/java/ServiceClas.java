@@ -169,6 +169,6 @@ while (rs.next()){
         } catch (SQLException e) {
             logger.error("Error query6", e);
         }
-        System.out.println();
+        System.out.println("");
     }
 }
